@@ -1,5 +1,6 @@
 {
-  "version": "2.0.1",
-  "url": "https://github.com/venkateshTakumi/calculator_v1-releases/releases/download/v2.0.1/calculator_v1_setup.exe",
-  "notes": "Fixes the app not reopening automatically after a silent update."
+  "version": "2.1.0",
+  "url": "https://github.com/venkateshTakumi/calculator_v1-releases/releases/download/v2.1.0/calculator_v1_setup.exe",
+  "notes": "Security update: license keys are now cryptographically signed with Ed25519 (asymmetric signing) instead of a shared secret, added an online license revocation check, and update downloads are now verified by hash before being installed.",
+  "sha256": "cc673644b747fc9d733b96c45eed1045d685aea16fbd0d95951d441d3a0cc9ba"
 }
